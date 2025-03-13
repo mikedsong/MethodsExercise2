@@ -18,9 +18,49 @@ namespace MethodsExercise
             Console.WriteLine($"one day, {userName} was walking through the woods while wearing a {favColor} t-shirt. {userName} saw a {favAnimal} listening to {favBand}");
         }
 
+        public static int Add(int numOne, int numTwo)
+        {
+            return numOne + numTwo;
+        }
+
+        public static int Subtract(int numOne, int numTwo)
+        {
+            return numOne - numTwo;
+        }
+
+        public static int Multiply(int numOne, int numTwo)
+        {
+            return numOne * numTwo;
+            
+        }
+
+        public static int Divide(int numOne, int numTwo)
+        {
+            return numOne / numTwo;
+        }
+
+
         static void Main(string[] args)
         {
-            Madlib();
+            //Madlib();
+            //Console.WriteLine(Add(2,2));
+            //int addedNums = Add(2, 2);
+            //Console.WriteLine(addedNums);
+            //Console.WriteLine(Subtract(2, 2));
+            //Console.WriteLine(Multiply(2, 2));
+            //Console.WriteLine(Divide(2, 2);
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
         }
     }
 }
