@@ -42,25 +42,13 @@ namespace MethodsExercise
 
         static void Main(string[] args)
         {
-            //Madlib();
-            //Console.WriteLine(Add(2,2));
-            //int addedNums = Add(2, 2);
-            //Console.WriteLine(addedNums);
-            //Console.WriteLine(Subtract(2, 2));
-            //Console.WriteLine(Multiply(2, 2));
-            //Console.WriteLine(Divide(2, 2);
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-
+            Madlib();
+            Console.WriteLine(Add(2, 2));
+            int addedNums = Add(2, 2);
+            Console.WriteLine(addedNums);
+            Console.WriteLine(Subtract(2, 2));
+            Console.WriteLine(Multiply(2, 2));
+            Console.WriteLine(Divide(2, 2));
         }
     }
 }
